@@ -4,3 +4,5 @@ The above are the operating systems lab assigments I have completed during July 
 
 
 **LAB-1**: This lab is based on creating a system call and using it. Also a few quetsions in the first assignment related to the kernel commands and instructions.
+
+The other labs had too many files so I have put the drive links we submitted which contains all the submission files including the report.
